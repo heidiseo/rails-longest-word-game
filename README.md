@@ -1,24 +1,9 @@
-# README
+# Longest Word Game
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Given 10 random alphabets, you compose a word. The longer the word is the higher the point will be.
 
-Things you may want to cover:
+### Purpose
+Practicing using various functions to create the grid, if the word is in the grid and check if it is a valid word in a dictionary with JSON.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Ruby Version
+Ruby 2.6.3.
