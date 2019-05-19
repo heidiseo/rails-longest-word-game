@@ -7,3 +7,4 @@ Practicing using various functions to create the grid, if the word is in the gri
 
 ## Ruby Version
 Ruby 2.6.3.
+
