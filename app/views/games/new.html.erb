@@ -1,3 +1,5 @@
+<div class="container">
+
 <h1>Welcome to the Longest Word Game!</h1>
 
 <ul class="list">
@@ -11,7 +13,8 @@
   <%= hidden_field_tag :authenticity_token, form_authenticity_token %>
   <input id="token" name="displayed" type="hidden" value="<%= @letters.join %>" />
   <input type="text" name="word" class="box">
-  <input type="submit" value="Play">
+  <input type="submit" value="Play" class="button">
 </form>
 
+</div>
 
